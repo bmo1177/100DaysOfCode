@@ -23,8 +23,15 @@ Welcome to my **#100DaysOfCode** challenge! This repository documents my journey
 ## 📅 Progress Log
 | Day | Summary | Link |
 |----|------------|------|
-| 1  | Kickstarted the challenge! | [Day 1](logs/day1.md) |
-| 2  | Built my first project | [Day 2](logs/day2.md) |
+| 1  | Creating a simple HTML/CSS Portfolio Page | [Day 1](Protfolio) |
+| 2  | | [Day 2](logs/day2.md) |
+| ... | ... | ... |
+| ... | ... | ... |
+| ... | ... | ... |
+| ... | ... | ... |
+| ... | ... | ... |
+| ... | ... | ... |
+| ... | ... | ... |
 | ... | ... | ... |
 
 ---
